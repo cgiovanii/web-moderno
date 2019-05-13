@@ -1,0 +1,10 @@
+{
+    "name": "Giovani Oliveira",
+    "age": 43,
+    "address":{
+        "rua": "AAA, 171",
+        "city": "Lisbon",
+        "PC": "2775-257"
+    },
+    "children": ["Alícia", "Sofia"]
+}
