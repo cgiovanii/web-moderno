@@ -9,3 +9,5 @@ console.log(rand([50, 40]))
 console.log(rand([955]))
 console.log(rand([, 10])) // 0 - 10
 console.log(rand([]))
+
+//muito fixe
