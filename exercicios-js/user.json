@@ -1,10 +1,13 @@
 {
-    "name": "Giovani Oliveira",
-    "age": 43,
-    "address":{
-        "rua": "AAA, 171",
-        "city": "Lisbon",
-        "PC": "2775-257"
+    "name":"Giovani",
+    "age":43,
+    "email":"cgiovanii@gmail.com",
+    "adress":{
+       "street":"AAA, 171",
+       "city":"Lisbon"
     },
-    "children": ["Alícia", "Sofia"]
-}
+    "children":[
+       "Alícia",
+       "Quiara"
+    ]
+ }

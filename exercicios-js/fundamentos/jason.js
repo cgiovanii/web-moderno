@@ -6,23 +6,25 @@
 let person = {
     name: "Giovani",
     age: 43,
-    email: "cgiovanii@gmail.com"
+    email: "cgiovanii@gmail.com",
+    adress:{
+        street: "AAA, 171",
+        city: "Lisbon"
+    },
+    children: [
+        'Alícia', 
+        'Quiara'
+    ]
 }
 
+console.log('JavaScript Object:')
 console.log(person)
-/**
- *  JSON:
- *  {
- *      "name": "Giovani",
- *      "age": 43,
- *      "email": "cgiovanii@gmail.com"
- *  }
- */
+console.log('Convertido em JSON:')
 
 //Coverte para JSON:
 person = JSON.stringify(person)
 
 //Conversor de JSON para javaScript:
-person = JSON.parse(person)
+//person = JSON.parse(person)
 
 console.log(person)
