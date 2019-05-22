@@ -1,13 +1,20 @@
 {
-    "name":"Giovani",
-    "age":43,
-    "email":"cgiovani@email.com",
-    "adress":{
-       "street":"AAA, 171",
-       "city":"Lisbon"
-    },
-    "children":[
-       "Alícia",
-       "Quiara"
-    ]
- }
+   "name": "Giovani Oliveira",
+   "age": 34,
+   "email": "cgi*************.com",
+   "adress": {
+      "city":"Lisbon",
+      "country":"Portugal"
+   },
+   "children": {
+      "name": "Alícia",
+      "age": 11
+   },
+   "languages": [
+      "Portuguese",
+      "English"
+   ],
+   "hobbies": [
+      "Play Minecraft", "Walk on beach", "Play with javaScript"
+   ]        
+}
