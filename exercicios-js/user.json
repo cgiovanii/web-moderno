@@ -3,8 +3,8 @@
    "age": 34,
    "email": "cgi*************.com",
    "adress": {
-      "city":"Lisbon",
-      "country":"Portugal"
+      "city": "Lisbon",
+      "country": "Portugal"
    },
    "children": {
       "name": "Alícia",
@@ -16,5 +16,5 @@
    ],
    "hobbies": [
       "Play Minecraft", "Walk on beach", "Play with javaScript"
-   ]        
+   ]
 }
